@@ -3,3 +3,4 @@ var reg = /[a-z]/gi;
 const patterns = {
 	telephone: /^\d{11}$/,
 };
+// some comment
